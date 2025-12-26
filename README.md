@@ -1,2 +1,3 @@
 # hueroh
-SQLite-inspired embedded database in Rust.
+
+Hueroh (pronounced hero) is a SQLite-inspired embedded database written in Go.
